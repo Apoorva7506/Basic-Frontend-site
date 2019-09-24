@@ -1,0 +1,28 @@
+.backimg{
+    background: url(img/b3.jpg);
+    height:540px;
+    background-size: 100% 100%;
+    
+    
+    color:greenyellow
+    
+}
+
+.bck{
+   background-image: linear-gradient(#C0F4F6, #FAF8CB);
+}
+.ft{
+    font-family:arial
+}
+
+.abck
+{background-image: linear-gradient(to right,red,black);
+     padding: 37px;
+    padding-left: 37px;
+    padding-right: 37px;
+}
+
+.in{
+   background-image: linear-gradient(to right,lightskyblue,lightsteelblue);
+}
+
