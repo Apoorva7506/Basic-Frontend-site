@@ -1,1 +1,13 @@
 # Unicode-Frontend
+
+## Task:
+- I have created a profile page for myself along with 2 other blogs.
+
+- All the pages are mobile responsive.
+
+- Navbar is also responsive and includes the 'blogs' dropdown list.
+
+- Edit detaails displays a modal containing a form to edit details.
+
+- Screenshots can be seen in the screenshots folder on repository.
+- This has been made by use of Html,CSS and Bootstrap 4.
