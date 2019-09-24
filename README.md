@@ -3,7 +3,7 @@
 ## Task:
 - I have created a profile page for myself along with 2 other blogs.
 
-- All the pages are mobile responsive.
+- All the pages are completely mobile responsive.
 
 - Navbar is also responsive and includes the 'blogs' dropdown list.
 
